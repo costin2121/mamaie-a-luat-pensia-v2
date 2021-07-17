@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,900&display=swap');
+
+* {
+    font-family: 'Playfair Display', serif;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+body {
+    background-image: linear-gradient(yellow, red);
+}
+
+.moto {
+    border-radius: 250px;
+    border-color: black;
+    border-style: solid;
+}
+.sclas {
+    border-radius: 150px;
+    border-color: black;
+    border-style: solid;
+}
+.nepot {
+    border-radius: 2000px;
+    border-color: black;
+    border-style: solid;
+}
+.gajiu { 
+    border-radius: 150px;
+    border-color: black;
+    border-style: solid;
+}
+.centru {
+    text-align: center
+}
+.s {
+    font-size: 15px
+}
+.button {
+    background-color: black;
+    color: white;
+    font-size: 40px;
+}
